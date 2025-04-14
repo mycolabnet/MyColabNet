@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Welcome to Gitm333333a
-Cheviot-ram.jpg
+<picture>Cheviot-ram.jpg<picture>
